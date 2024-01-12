@@ -52,11 +52,8 @@ footer li {
 #icone {
   padding-right: 20px;
 }
-@media screen and (min-width: 1400px) and (max-width: 2300px) {
+@media screen and (min-width: 1400px) and (max-width: 2086.25px) {
   main img {
-    width: 95%;
-  }
-  .img1 {
-    margin-left: 70px;
+    width: 100%;
   }
 }
