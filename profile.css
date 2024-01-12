@@ -1,0 +1,91 @@
+body {
+  background-color: #141414;
+}
+main {
+  margin-top: 5em;
+}
+
+header nav {
+  background: rgb(0, 0, 0);
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 1) 20%,
+    rgba(20, 20, 20, 1) 100%,
+    rgba(20, 20, 20, 1) 100%
+  );
+}
+header img {
+  width: 200px;
+}
+main img {
+  width: 150px;
+}
+#bot1 {
+  background-color: rgb(138, 138, 138);
+  width: 300px;
+  border: none;
+}
+h1 {
+  font-size: 4em;
+  color: white;
+}
+#container {
+  border-bottom: 1px solid rgb(56, 56, 56);
+}
+.container1 {
+  height: 170px;
+  border-bottom: 1px solid rgb(56, 56, 56);
+}
+#bottone {
+  width: 150px;
+}
+
+#bottone2 {
+  background-color: rgb(63, 63, 63);
+  padding: 8px;
+  border: none;
+  width: 230px;
+  font-weight: 600;
+}
+#bottone3 {
+  background-color: #141414;
+  width: 100px;
+  border: 2px solid rgb(143, 143, 143);
+}
+.container2 {
+  height: 250px;
+  border-bottom: 1px solid rgb(56, 56, 56);
+}
+#container3 {
+  height: 150px;
+}
+#container4 {
+  border-top: 1px solid rgb(56, 56, 56);
+}
+#bottone4 {
+  width: 100px;
+  font-weight: 700;
+  padding: 15px;
+}
+#bottone5 {
+  background-color: #141414;
+  width: 150px;
+  border: 2px solid rgb(143, 143, 143);
+  padding: 15px;
+}
+#bottone6 {
+  background-color: #141414;
+  width: 200px;
+  border: 2px solid rgb(143, 143, 143);
+  padding: 15px;
+}
+#check {
+  border: 2px solid rgb(143, 143, 143);
+  border-radius: 0;
+  background-color: #141414;
+  padding: 17px;
+  margin-right: 20px;
+}
+#c {
+  width: 630px;
+}
